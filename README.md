@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ChaeWook Kim, i am 26years old, enrolled computer science in seoul online university
-- 👀 I’m interested in Data Engineer and Python Web Backend Engineer
-- 🌱 I’m currently learning Data Engineer NanoDegree in Udacity!
+- 👀 I’m interested in Python Web Backend Engineer
+- 🌱 I’m currently learning Intro to Programming in Udacity!
 - 💞️ I’m looking to collaborate on mini project
 - 📫 How to reach me 010-7274-2371, https://blog.naver.com/health2297
 
