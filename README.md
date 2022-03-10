@@ -4,5 +4,3 @@
 - 💞️ I’m looking for collaboration on mini project
 - 📫 How to reach me 010-7274-2371, https://blog.naver.com/health2297
 - 👀 I am always open to do new stuff
-
-
