@@ -1,10 +1,3 @@
-### Django Backend Developer
-- I love the zen of python and pursue the pythonic code
-- I believe computer can create infinity values in terms of business and life
-- I am always better than yesterday
-- I want to become problem solver not the software developer
-
-
 ## What to See
 - orgranization: wanted-team-e
   - 4개의 기업 과제 수행 리포지토리
